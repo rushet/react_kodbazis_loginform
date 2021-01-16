@@ -1,0 +1,7 @@
+npx create-react-app .
+ npm i --save  bootstrap
+ npm i --save  react-router-dom
+ npm i --save  axios 
+ npm start
+ 
+
